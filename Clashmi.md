@@ -20,13 +20,13 @@
 - 备注随便写，例如「我的订阅」
 - 点击右上角 ✔
 <img width="590" height="467" alt="image" src="https://github.com/user-attachments/assets/34994350-0e44-42d2-9444-310a55bd3279" />
-##  第五步：导入成功
+## 第五步：导入成功
 - 点击弹出的 确定
 -  <img width="590" height="417" alt="image" src="https://github.com/user-attachments/assets/ddbeaab3-17a7-49f5-ba11-77bae44e10df" />
-##  🔙 第六步：点击左上角返回主界面
+## 🔙 第六步：点击左上角返回主界面
 - 点左上角箭头返回首页：  
 - <img width="590" height="376" alt="image" src="https://github.com/user-attachments/assets/d993fd50-888a-452d-8a69-dc83fb71a0fe" />
-##   第七步：开启连接
+## 第七步：开启连接
 - 回到首页后：
 - 选择模式（建议 全局 或 规则）
 - 打开右上角开关
