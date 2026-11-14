@@ -1,0 +1,12 @@
+{
+  "sites": [],
+  "lives": [
+    {
+      "name": "我的直播",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/orbsat/my-skills/main/tvbox/yuan-tvbox-live.m3u",
+      "epg": "https://epg.pw/xmltv/epg_lite.xml",
+      "logo": "https://epg.pw/logo/{name}.png"
+    }
+  ]
+}
