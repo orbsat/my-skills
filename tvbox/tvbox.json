@@ -1,15 +1,6 @@
 {
   "sites": [
     {
-      "key": "tvtx",
-      "name": "TVTX（自建）",
-      "type": 1,
-      "api": "https://tvtx.com.cn/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "dyttzy",
       "name": "电影天堂",
       "type": 1,
